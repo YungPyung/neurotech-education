@@ -14,7 +14,7 @@ More to come...
 4. Plot PSD
 5. Apply filters
 
-[Example Cell](/example_cell.png)
+![Example Cell](/example_cell.png)
 
 ## Types
 Workshop Versions: Fill in the ???  
