@@ -9,5 +9,5 @@ Completed Versions: Answer key
 
 ## About
 Samuel Kim  
-_VP of Internal Operations_  
+_VP Internal Operations_  
 _NeuroTech @ UIUC_
