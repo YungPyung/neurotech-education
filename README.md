@@ -14,7 +14,8 @@ More to come...
 4. Plot PSD
 5. Apply filters
 
-Example Cell:
+Example Cell:  
+
 ![](/example_cell.png)
 
 ## Types
