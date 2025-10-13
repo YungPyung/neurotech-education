@@ -5,7 +5,7 @@ More to come...
 
 ## Example
 
-[Complete Workshop 1](https://github.com/YungPyung/neurotech-education/blob/main/completed_versions/Intro_to_EEG_Data_Analysis.ipynb)
+[Complete Workshop 1](/completed_versions/Intro_to_EEG_Data_Analysis.ipynb)
 
 ## Types
 Workshop Versions: Fill in the ???  
