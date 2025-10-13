@@ -14,6 +14,7 @@ More to come...
 4. Plot PSD
 5. Apply filters
 
+[Example Cell](/example_cell)
 
 ## Types
 Workshop Versions: Fill in the ???  
