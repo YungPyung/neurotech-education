@@ -5,7 +5,7 @@ More to come...
 
 ## Example
 
-[Workshop 1](/completed_versions/Intro_to_EEG_Data_Analysis.ipynb)
+[Intro to EEG Data Analysis](/completed_versions/Intro_to_EEG_Data_Analysis.ipynb)
 1. Load EEG dataset
 2. Plot channels
 3. Make it pretty
