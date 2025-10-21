@@ -22,7 +22,10 @@ Example Cell:
 Workshop Versions: Fill in the ???  
 Completed Versions: Answer key
 
-## About
+## Social Media
+(First workshop photos!)[https://www.instagram.com/p/DPwcL4FAIvM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==]
+
+## Author
 Samuel Kim  
 _VP Internal Operations_  
 _NeuroTech @ UIUC_
