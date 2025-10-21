@@ -23,7 +23,7 @@ Workshop Versions: Fill in the ???
 Completed Versions: Answer key
 
 ## Social Media
-![First workshop photos!](https://www.instagram.com/p/DPwcL4FAIvM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+[First in-person workshop photos!](https://www.instagram.com/p/DPwcL4FAIvM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## Author
 Samuel Kim  
