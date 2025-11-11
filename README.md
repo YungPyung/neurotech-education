@@ -19,11 +19,11 @@ Example Cell:
 ![](/example_cell.png)
 
 ## Example Presentation
-Careers Animation:   
+[Careers Animation](presentations/neurotech_careers.gif):   
 
 ![](/presentations/neurotech_careers.gif)
 
-## Social Media
+## Instagram
 [First in-person workshop photos!](https://www.instagram.com/p/DPwcL4FAIvM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## Author
