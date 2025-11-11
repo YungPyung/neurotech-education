@@ -3,9 +3,9 @@ Interactive workshop notebooks for EEG data analysis, BCI applications, and more
 
 More to come...
 
-## Example
+## Example Notebook
 
-[Intro to EEG Data Analysis](/completed_versions/Intro_to_EEG_Data_Analysis.ipynb)  
+[Intro to EEG Data Analysis](/answer-key/intro_to_eeg_data_analysis.ipynb)  
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YungPyung/neurotech-education/blob/main/completed_versions/Intro_to_EEG_Data_Analysis.ipynb)
 1. Load EEG dataset
@@ -18,9 +18,10 @@ Example Cell:
 
 ![](/example_cell.png)
 
-## Types
-Workshop Versions: Fill in the ???  
-Completed Versions: Answer key
+## Example Presentation
+Careers Animation:   
+
+![](/presentations/neurotech_careers.gif)
 
 ## Social Media
 [First in-person workshop photos!](https://www.instagram.com/p/DPwcL4FAIvM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
